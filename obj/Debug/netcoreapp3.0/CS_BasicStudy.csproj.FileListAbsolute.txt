@@ -1,0 +1,11 @@
+D:\CS_BasicStudy\bin\Debug\netcoreapp3.0\CS_BasicStudy.exe
+D:\CS_BasicStudy\bin\Debug\netcoreapp3.0\CS_BasicStudy.deps.json
+D:\CS_BasicStudy\bin\Debug\netcoreapp3.0\CS_BasicStudy.runtimeconfig.json
+D:\CS_BasicStudy\bin\Debug\netcoreapp3.0\CS_BasicStudy.runtimeconfig.dev.json
+D:\CS_BasicStudy\bin\Debug\netcoreapp3.0\CS_BasicStudy.dll
+D:\CS_BasicStudy\bin\Debug\netcoreapp3.0\CS_BasicStudy.pdb
+D:\CS_BasicStudy\obj\Debug\netcoreapp3.0\CS_BasicStudy.csprojAssemblyReference.cache
+D:\CS_BasicStudy\obj\Debug\netcoreapp3.0\CS_BasicStudy.AssemblyInfoInputs.cache
+D:\CS_BasicStudy\obj\Debug\netcoreapp3.0\CS_BasicStudy.AssemblyInfo.cs
+D:\CS_BasicStudy\obj\Debug\netcoreapp3.0\CS_BasicStudy.dll
+D:\CS_BasicStudy\obj\Debug\netcoreapp3.0\CS_BasicStudy.pdb
